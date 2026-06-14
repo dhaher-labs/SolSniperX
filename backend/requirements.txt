@@ -15,7 +15,7 @@ solana>=0.36.11
 solders>=0.27.1
 base58>=2.1.1
 httpx>=0.28.1
-python-dotenv>=1.0.1
+python-dotenv>=1.2.2
 typing_extensions>=4.14.0
 pytest
 pytest-asyncio
